@@ -2,3 +2,5 @@ opencv-python
 torch
 pyserial
 jupyter notebook
+yolo v5
+arduino 
